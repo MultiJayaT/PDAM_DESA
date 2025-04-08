@@ -1,0 +1,5 @@
+# file
+node_modules
+
+# environment variables
+.env
