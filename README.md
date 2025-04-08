@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💧 API Tagihan Air Warga
 
 Sistem backend ini dibangun menggunakan **Node.js**, **Express**, dan **Sequelize (MySQL)** untuk mengelola data pemakaian air warga dan tagihan otomatis.
@@ -39,3 +40,6 @@ npm install
 node server.js atau jika menggunakan nodemon maka jalankan nodemon server.js
 
                 SELAMAT MENCOBA         
+=======
+# PDAM_DESA
+>>>>>>> 88bebfca5e83dc32b83a8211ca76ba2eefb4e77d
